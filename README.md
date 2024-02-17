@@ -1,1 +1,1 @@
-<link rel="manifest" href="/manifest.json">
+<link rel="connect" href="cheeseman.info/website.html">
