@@ -1,1 +1,1 @@
-href="https://www.youtube.com/watch?v=oHg5SJYRHA0">
+<link rel="manifest" href="/manifest.json">
